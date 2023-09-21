@@ -1,33 +1,33 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate software developer with a strong interest in Software Development (SDE), Machine Learning (ML), Web Development, and Web3 projects. Here, you'll find a glimpse of my skills, experiences, and aspirations in these areas.
+Welcome to my GitHub profile! I'm Shashank Mishra, a passionate software developer with a strong interest in Software Development (SDE), Machine Learning (ML), Web Development, and Web3 projects. Here, you'll find a glimpse of my skills, experiences, and aspirations in these areas.
 
-## About Me
+## About Me 👀
 
-I am a [Your Current Role] with [X] years of experience in the tech industry. My journey in the world of technology has been incredibly exciting and rewarding. I am constantly seeking new challenges and opportunities to learn and grow.
+I am presently a student studying at the Indian Institute of Technology, Guwahati. My journey in the world of technology has been incredibly exciting and rewarding. I am constantly seeking new challenges and opportunities to learn and grow.
 
 ## Interests and Expertise
 
-### Software Development (SDE)
+### Software Development (SDE) 🌱
 
-- **Languages**: Python, Java, JavaScript, C++
+- **Languages**: Python, C, JavaScript, C++
 - **Architecture**: Scalable and maintainable software architectures
 - **Problem Solving**: Effective solutions for complex challenges
 - **DevOps**: Efficient development, testing, and deployment pipelines
 
-### Machine Learning (ML)
+### Machine Learning (ML) 🤖
 
 - **Data Analysis**: Extracting valuable insights from data
 - **Model Development**: Building and fine-tuning ML models
 - **Deep Learning**: Working with TensorFlow and PyTorch
 
-### Web Development
+### Web Development 🕸️
 
-- **Front-end**: Responsive web interfaces with HTML, CSS, and JavaScript
+- **Front-end**: Responsive web interfaces with HTML, CSS, and JavaScript, React, Redux, Next.js
 - **Back-end**: Server-side applications with Node.js, Python, and various frameworks
 - **Full-Stack**: Bridging front-end and back-end development
 
-### Web3 Projects
+### Web3 Projects ⛓️
 
 - **Smart Contracts**: Development on various blockchain platforms
 - **Decentralized Applications**: Building DApps with blockchain technology
@@ -56,9 +56,9 @@ I'm always evolving and embracing new challenges. In the near future, I plan to:
 
 I'm open to connecting, collaborating, and discussing ideas. Feel free to reach out to me via:
 
-- [Email](mailto:youremail@example.com)
+- [Email](mailto:mishrashashank006@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [GitHub](https://github.com/yourusername)
+- [GitHub](https://github.com/nkshash)
 
 Thank you for visiting my GitHub profile, and I look forward to connecting and exploring opportunities with you!
 
