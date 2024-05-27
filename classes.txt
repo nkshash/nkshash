@@ -1,0 +1,18 @@
+Abrasions: 0
+Bruises: 1
+Burns: 2
+Cut: 3
+Diabetic Wounds: 4
+Gingivitis: 5
+Surgical Wounds: 6
+Venous Wounds: 7
+athlete foot: 8
+cellulitis: 9
+chickenpox: 10
+cutaneous larva migrans: 11
+impetigo: 12
+nail fungus: 13
+ringworm: 14
+shingles: 15
+tooth discoloration: 16
+ulcer: 17
